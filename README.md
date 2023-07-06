@@ -1,1 +1,1 @@
-mental fitness_tracker
+mental-fitness-tracker
